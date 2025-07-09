@@ -41,7 +41,7 @@ body {
 /* Make content sections semi-transparent so video shows through */
 #colorlib-main, 
 #colorlib-aside {
-  background-color: rgb(122, 120, 120); /* Adjust opacity as needed */
+  background-color: rgba(54, 126, 124, 0.9) /* Adjust opacity as needed */
 }
 
 a {
